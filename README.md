@@ -11,7 +11,7 @@ _This application will easily allow the user to create their own player made cha
 * _What is Edge of the Empire?
 Edge of the empire is a Star Wars licensed tabletop role-playing game. Edge of the Empire was published by Fantasy Flight Games, the same company that helped make Warhammer 40k, as well as creating other licensed games like Game of Thrones, and the Lord of the Rings. Edge of the Empire was created by Fantasy Flight games in 2012_
 
-
+## Installation
 * _Clone repository from github_
 * _Open repository file_
 * _Run index.html_

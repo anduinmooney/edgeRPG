@@ -6,12 +6,15 @@
     "Anduin Mooney"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/anduinmooney/edgeRPG",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }

@@ -1,7 +1,6 @@
 {
   "name": "edgerpg",
   "version": "1.0.0",
-  "description": "",
   "main": "index.html",
   "scripts": {
     "test": "karma start karma.conf.js"
@@ -42,5 +41,6 @@
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.10.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "description": ""
 }

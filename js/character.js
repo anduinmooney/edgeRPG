@@ -1,4 +1,4 @@
-export class Character {
+class Character {
   constructor(brawn, agility, intelligence, cunning, willpower, precense, soak, wound, strain, defense, astrogation, athletics, charm, coercion, computers, cool, coordination, deception, discipline, leadership, mechanics, medicine, negotiation, perception, pilotingPlanetary, pilotingSpace, resillience, skulduggery, stealth, streetwise, survival, vigilance, brawl, gunnary, melee, rangedLight, rangedHeavy, coreWorlds, education, lore, outerRim, underworld, xenology, weapon, armor, credits, xp, species) {
     this.brawn = brawn;
     this.agility = agility;

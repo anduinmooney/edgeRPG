@@ -20,8 +20,9 @@ Edge of the empire is a Star Wars licensed tabletop role-playing game. Edge of t
 ### Specifications
 | Behavior | Input | Output |
 | :-------------     | :------------- | :-------------
-|Add skillpoint to characteristic| +2 brawn | 4 total brawn, -70 starting xp |
-| Add skillpoint to skikk| +2 computers | 3 total computer skills, -20 starting xp |
+| Selecting species presets characteristic| Wookiee | 3 Brawn, 2 agility, 2 intelligence, 2 cunning, 1 willpower, 2 presence |
+| Add skillpoint to characteristic| +2 brawn | 4 total brawn, -70 starting xp |
+| Add skillpoint to skill| +2 computers | 3 total computer skills, -20 starting xp |
 | Add career| Hired Gun | Hired Gun|
 | Add firearm to character| Blaster Pistol | Blaster Pistol, -500 starting credits|
 | Add armor to character| Heavy Clothing | Heavy Clothing, -50 starting credits|
